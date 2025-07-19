@@ -19,3 +19,5 @@ useful links:
 [google crash course LLMs](https://developers.google.com/machine-learning/crash-course/llm)
 
 [Attention is all you need (traduzido)](https://medium.com/@msmurilo/tradução-artigo-attention-is-all-you-need-2f7a4113b3be)
+
+[diagrama de funcionamento de LLMs](https://bbycroft.net/llm)
