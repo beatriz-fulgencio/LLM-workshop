@@ -21,3 +21,5 @@ useful links:
 [Attention is all you need (traduzido)](https://medium.com/@msmurilo/tradução-artigo-attention-is-all-you-need-2f7a4113b3be)
 
 [diagrama de funcionamento de LLMs](https://bbycroft.net/llm)
+
+[iltrachat map (post training)](https://atlas.nomic.ai/data/stingning/ultrachat-1/map)
