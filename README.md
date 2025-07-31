@@ -48,10 +48,10 @@ A curated collection of readings, tutorials, and tools to support both the theor
   Aggregated tutorials, blog posts, and video playlists.
 - **[FineWeb (pretraining dataset)](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)**
   Internet scan database used for pretraining.
-- [LLM arena for model ranking](https://lmarena.ai)
-  COmparisson of sota models.
-- [LLM studio for running models locally](https://lmstudio.ai)
-  local AI toolkit for local models.
+- **[LLM arena for model ranking](https://lmarena.ai)**
+  Comparisson of sota models.
+- **[LLM studio for running models locally](https://lmstudio.ai)**
+  Local AI toolkit for local models.
 
 ---
 
