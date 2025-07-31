@@ -1,6 +1,6 @@
-# LLM Workshop Resources
+# LLM Workshop Resources  
 
-A curated collection of readings, tutorials, and tools to support both the theory and practice of large language models. Organized by topic for quick navigation.
+- A curated collection of readings, tutorials, and tools to support both the theory and practice of large language models. Organized by topic for quick navigation.
 ---
 
 ## 📓 Workshop Materials
