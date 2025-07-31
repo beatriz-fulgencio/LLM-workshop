@@ -1,12 +1,11 @@
 # LLM Workshop Resources
 
 A curated collection of readings, tutorials, and tools to support both the theory and practice of large language models. Organized by topic for quick navigation.
-
 ---
 
 ## 📓 Workshop Materials
 
-- **Slides:** `IntroLLMs.pdf`  
+- **Slides:** `IntroLLMs.pdf`
 - **Notebook:** `class1.ipynb` — Colab exercises on tokenization, embeddings, SFT & RAG
 
 ---
@@ -39,10 +38,20 @@ A curated collection of readings, tutorials, and tools to support both the theor
 
 - **[LLM Diagrams & Animations](https://bbycroft.net/llm)**  
   Interactive illustrations of transformer internals and token flow.
+- **[Tiktokenizer](https://tiktokenizer.vercel.app/)**
+  Iterative token simulator. 
 - **[ULTRACHAŦ Map (Nomic Atlas)](https://atlas.nomic.ai/data/stingning/ultrachat-1/map)**  
-  Visualization of post‑training conversation data and labeling workflows.  
+  Visualization of post‑training conversation data and labeling workflows.
+- [Hugging Face Inference playground](https://huggingface.co/spaces/huggingface/inference-playground)
+  Web-based interface that allows users to interact with models hosted on the Hugging Face Hub without writing any code.
 - **[Resources to Master LLMs (KDnuggets)](https://www.kdnuggets.com/a-comprehensive-list-of-resources-to-master-large-language-models)**  
-  Aggregated tutorials, blog posts, and video playlists.  
+  Aggregated tutorials, blog posts, and video playlists.
+- **[FineWeb (pretraining dataset)](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)**
+  Internet scan database used for pretraining.
+- [LLM arena for model ranking](https://lmarena.ai)
+  COmparisson of sota models.
+- [LLM studio for running models locally](https://lmstudio.ai)
+  local AI toolkit for local models.
 
 ---
 
